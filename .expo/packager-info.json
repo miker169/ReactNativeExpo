@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 32376,
+  "expoServerNgrokUrl": "https://c7-ccg.anonymous.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.c7-ccg.anonymous.rn-starter.exp.direct",
+  "ngrokPid": 32392,
+  "webpackServerPort": null
+}
